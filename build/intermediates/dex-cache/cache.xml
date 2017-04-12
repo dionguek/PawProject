@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\diong\Desktop\AndroidApp\BuildOwnPawServer\libs\commons-codec.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="C:\Users\diong\Desktop\AndroidApp\BuildOwnPawServer\app\build\intermediates\pre-dexed\debug\commons-codec_5c45db009922fe1f3ce18e2de7ef18dd3f868c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\diong\Desktop\AndroidApp\BuildOwnPawServer\libs\jdom-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bed2545998d69c07cf6af13de40e9dae15fdd19e">
+        <dex dex="C:\Users\diong\Desktop\AndroidApp\BuildOwnPawServer\app\build\intermediates\pre-dexed\debug\jdom-android_8c428ef52ebf1094c472e14439a5b501312f2c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\diong\Desktop\AndroidApp\BuildOwnPawServer\libs\paw-server.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="04da41662c8765f68c091e2c4289d7ac43e6f3ae">
+        <dex dex="C:\Users\diong\Desktop\AndroidApp\BuildOwnPawServer\app\build\intermediates\pre-dexed\debug\paw-server_eed39b2af05a39b7799fe7e368fa2a1f87ada773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\diong\Desktop\AndroidApp\BuildOwnPawServer\libs\brazil.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e13597835c36675ebd15119eca0d031cd88a47d6">
+        <dex dex="C:\Users\diong\Desktop\AndroidApp\BuildOwnPawServer\app\build\intermediates\pre-dexed\debug\brazil_b61938e24725a02b71b7a9e3a305612721acabee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\diong\Desktop\AndroidApp\BuildOwnPawServer\libs\bsh-2.1.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d1a739ea4ad2222a6b06193fb087855982694831">
+        <dex dex="C:\Users\diong\Desktop\AndroidApp\BuildOwnPawServer\app\build\intermediates\pre-dexed\debug\bsh-2.1.8_6bb437dd4e0c981967f95c93852dfba5064ecad0.jar" />
+    </item>
+
+</items>
